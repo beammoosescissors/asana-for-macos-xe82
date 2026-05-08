@@ -1,4 +1,4 @@
-
+Enhance Asana for macOS with Asana for macOS updated Plugin - task automation and real-time editing, the #1 plugin. Includes task automation and real-time editing for a smoother
 
 
 
